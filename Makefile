@@ -365,6 +365,7 @@ qrc_icons.cpp: ../stepper_test/icons.qrc \
 		/usr/lib/qt5/bin/rcc \
 		../stepper_test/close.png \
 		../stepper_test/home.png \
+		../stepper_test/update.png \
 		../stepper_test/calibration.png \
 		../stepper_test/settings.png \
 		../stepper_test/minimize.png
